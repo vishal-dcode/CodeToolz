@@ -27,7 +27,7 @@ To run CodeToolz locally, you will need to have Node.js and npm installed on you
 
 ## Issues and Feedback 💬
 
-If you encounter any issues while using the PowerFit app, please report them by clicking on the "Report Issue" button. If you have any feedback or suggestions for improving the app, please feel free to reach out to us.
+If you encounter any issues while using the CodeToolz app, please report them by clicking on the "Report Issue" button. If you have any feedback or suggestions for improving the app, please feel free to reach out to us.
 
 ## Support ❤️
 
